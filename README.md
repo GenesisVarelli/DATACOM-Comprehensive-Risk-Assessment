@@ -1,7 +1,7 @@
 # DATACOM: Cyberattack Investigation & Risk Assessment  
 
 ## Overview  
-This is a cybersecurity project focused on investigating a cyberattack and conducting a comprehensive risk assessment for the company **DATACOM** . This project simulates real-world threat scenarios, leveraging security tools to identify, analyse, and mitigate potential risks.  
+This is a cybersecurity project focused on investigating a cyberattack and conducting a comprehensive risk assessment for the company **DATACOM**. This project simulates real-world threat scenarios, leveraging security tools to identify, analyse, and mitigate potential risks.  
 
 ## Objectives  
 - Investigate a simulated cyberattack using **DATACOM**  
