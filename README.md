@@ -21,13 +21,8 @@ This is a cybersecurity project focused on investigating a cyberattack and condu
 - Define the **context** for a client’s cybersecurity risks  
 - Conduct a **risk assessment**, evaluating threats and vulnerabilities  
 - Assess the **risk matrix** and determine impact likelihood  
-- Identify potential **risk scenarios** and mitigation strategies   
-
-## How to Use  
-1. Set up your analysis environment  
-2. Ingest logs and security events  
-3. Investigate attack indicators  
-4. Assess risks and document findings  
+- Identify potential **risk scenarios** and mitigation strategies
+    
 
 ## Reporting  
 A final risk assessment report will be generated, detailing the attack vectors, security gaps, and mitigation strategies.  
