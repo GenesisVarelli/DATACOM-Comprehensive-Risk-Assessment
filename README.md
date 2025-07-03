@@ -1,28 +1,29 @@
-# DATACOM: Cyberattack Investigation & Risk Assessment  
+# Case Study: Investigating a Cyberattack & Assessing Risks for a Technology Company
 
 ## Overview  
-This is a cybersecurity project focused on investigating a cyberattack and conducting a comprehensive risk assessment for the company **DATACOM**. This project simulates real-world threat scenarios, leveraging security tools to identify, analyse, and mitigate potential risks.  
+We worked with a technology company to investigate a simulated cyberattack and perform a full risk assessment. The goal was to replicate a realistic threat scenario, use security tools to uncover risks, and recommend ways to strengthen their cybersecurity defenses.
 
-## Objectives  
-- Investigate a simulated cyberattack using **DATACOM**  
-- Analyse security events and detect malicious activity  
-- Conduct a detailed risk assessment based on findings  
-- Develop recommendations for risk mitigation  
+## What We Did
 
-## Tasks  
+### Task 1: Investigated the Cyberattack and Created a Detailed Report  
+- We analyzed security logs and data to trace the attack and identify any suspicious activity.  
+- Our investigation focused on understanding how the attackers gained access and what vulnerabilities were exploited.  
+- After completing the analysis, we produced a comprehensive report outlining our findings.  
+- The report also included key recommendations to help the company improve their security posture and prevent future attacks.
 
-### Task 1: Cyberattack Investigation & Reporting  
-- Investigate a cyberattack using security tools  
-- Analyse logs, detect anomalies, and identify attack vectors  
-- Produce a **comprehensive report** documenting findings  
-- Outline **key recommendations** to enhance the client’s cybersecurity posture  
+### Task 2: Conducted Risk Assessment and Suggested Mitigation Strategies  
+- We assessed the overall cybersecurity risks facing the company by evaluating threats and vulnerabilities.  
+- Using a risk matrix, we determined the likelihood and potential impact of various risk scenarios.  
+- We identified specific risk scenarios and proposed practical strategies to reduce those risks and enhance security.
 
-### Task 2: Risk Assessment & Mitigation  
-- Define the **context** for a client’s cybersecurity risks  
-- Conduct a **risk assessment**, evaluating threats and vulnerabilities  
-- Assess the **risk matrix** and determine impact likelihood  
-- Identify potential **risk scenarios** and mitigation strategies
-    
+## Why It Matters  
+Cyberattacks are constantly evolving and can cause significant damage. By thoroughly investigating the incident and assessing risks, we helped this technology company understand their vulnerabilities and take meaningful steps to protect their assets. Proactive risk management is essential for maintaining strong cybersecurity defenses.
 
-## Reporting  
-A final risk assessment report will be generated, detailing the attack vectors, security gaps, and mitigation strategies.  
+## What We Achieved  
+- Delivered an in-depth investigation of a simulated cyberattack  
+- Identified attack vectors and security weaknesses  
+- Provided a clear, actionable report with recommendations  
+- Conducted a tailored risk assessment with effective mitigation strategies  
+
+This approach helped the company enhance their cybersecurity readiness and build a more resilient defense against future threats.
+
